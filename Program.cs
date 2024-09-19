@@ -9,7 +9,7 @@ class Program
         var recordList = new List<CatFood>();
         for (int i = 0; i < numberOfRecords; i++)
         {
-            // Populate the object's properties
+            
             var catFood = new CatFood();
 
             Console.WriteLine("Enter Name: ");
